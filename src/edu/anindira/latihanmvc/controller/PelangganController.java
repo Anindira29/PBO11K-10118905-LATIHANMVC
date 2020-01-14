@@ -12,6 +12,10 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Fitri
+ * NAMA         : ANINDIRA DINA FITRIANI
+ * NIM          : 10118905
+ * KELAS        : IF11 - K
+ * DESKRIPSI    : LATIHAN MVC
  */
 public class PelangganController {
     
